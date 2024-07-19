@@ -24,9 +24,7 @@ const CardDeal = () => {
        className="w-[100%] h-[100%] " />
     </div>
   </section>    
-
-
-  )
+)
 }
 
 export default CardDeal

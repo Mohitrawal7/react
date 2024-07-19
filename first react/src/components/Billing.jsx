@@ -33,9 +33,7 @@ const Billing = () => {
         </div>
         </div>
    </section>
-
-
-  )
+    )
 }
 
 export default Billing

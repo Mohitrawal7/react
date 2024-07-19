@@ -3,7 +3,7 @@ import styles from '../style'
 import FeedbackCard from './FeedbackCard'
 
 const Testimonial = () => {
-  return (
+  return(
     <section id="clients" 
     className={`${styles.paddingY}
      ${styles.flexCenter} 
